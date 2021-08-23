@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Hi, I'm 公众号 程序员GitHub! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
+<h2> Hi, I'm LeeYa! a software engineer from ChengDu<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h6> </h6>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 <!-- 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
 ### My top 10 technologies-
 
 | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/python.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/tensorflow.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/gcp.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/azure.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/c++.png) |
